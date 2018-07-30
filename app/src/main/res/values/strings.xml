@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="Q1">Is your age between 30 to 40 years?</string>
+    <string name="Q2">Do you love traveling?</string>
+    <string name="Q3">Do you love Archaeology?</string>
+    <string name="Q4">Do you love history and ancient things?</string>
+    <string name="Q5">Do you wish to see one of the seven wonders?</string>
+    <string name="Q6">Do you love Egyptian Pharaohs?</string>
+    <string name="Q7">Did you ever travel to Egypt?</string>
+    <string name="CheckBox1">Yes</string>
+    <string name="CheckBox2">No</string>
+    <string name="button">Submit Answers</string>
+</resources>
